@@ -3,7 +3,7 @@
 import vk_api
 import random
 
-def post2vk(letter): #ввод строки сообщения в группу
+def post2vk(letter): #ввод строки сообщения для отправки в группу вк
     login = 'login@vk.ru'
     password = 'password'
     app_id = 6666666

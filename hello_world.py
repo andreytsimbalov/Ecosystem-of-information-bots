@@ -17,7 +17,7 @@ def post2vk(letter): #ввод строки сообщения для отпра
     print(vk1.wall.post(owner_id='-123456789', message=str(letter)))
 
 
-#генератор текста
+#генератор текста йцуйцу
 def textgeneration(tags_num): #пример tags_num=[0,1,2,3,4,5,6,7,8,9]
     letter = ''
 
